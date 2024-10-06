@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalancer&langs_count=6&layout=compact&title_color=ffffff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&hide=php)
 
 <a href="https://www.linkedin.com/in/jbalancer" target="_blank"><img src="icons/linkedin_button_icon.svg" /></a>
-<a href="https://leetcode.com/jbalancer" target="_blank"><img src="icons/leetcode_button_icon.svg" /></a>
+<a href="https://leetcode.com/u/xMMB" target="_blank"><img src="icons/leetcode_button_icon.svg" /></a>
 <a href="https://www.codewars.com/users/jbalancer" target="_blank"><img src="icons/codewars_button_icon.svg" /></a>
